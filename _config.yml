@@ -1,0 +1,34 @@
+title: My Files-X Project
+description: > # this means to ignore newlines until "baseurl:"
+  My Files-X is a new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer!
+permalink: ':title/'
+baseurl: "/MyFilesXProjectPage" # the subpath of your site, e.g. /blog
+url: "https://neolyon0101.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Neolyon Devs # add your name
+main-name: My Files-X
+author-img: globalicon.png # add your photo
+about-author: A new File Explorer with a new design based on Fluent Design and UWP, with most of the features of the Windows Native File Explorer! # add description
+social-github: Neolyon0101 # add your Github handle
+social-email: dev.neolyon@gmail.com # add your email
+store-paid-link: https://www.microsoft.com/en-us/p/my-files-x/9ppksbgr6f52
+store-free-link: https://www.microsoft.com/en-us/p/my-files-x-free/9pmr0wkvhjfb
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
