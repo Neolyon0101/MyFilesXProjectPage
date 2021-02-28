@@ -14,7 +14,7 @@ You can launch the app using the Win + E shortcut by editing the registry.
 
 Instructions:
 
-1. Download [this](https://raw.githubusercontent.com/Neolyon0101/MyFilesXProject/main/files/Set%20My%20Files-X%20Shortcut%20Key.zip) and extract it
+1. Download [this](https://raw.githubusercontent.com/Neolyon0101/MyFilesXProjectPage/main/files/Set%20My%20Files-X%20Shortcut%20Key.zip) and extract it
 2. Run MyFilesXShortcutApply.reg
 3. Enjoy! (Win + E)
 4. Optional: Run MyFilesXShortcutUndo.reg in order to restore windows explorer with default Win + E shortcut key
