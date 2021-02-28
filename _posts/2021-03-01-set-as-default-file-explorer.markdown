@@ -14,7 +14,7 @@ You can set the app as default file explorer.
 
 Instructions:
 
-1. Download [this](https://raw.githubusercontent.com/Neolyon0101/MyFilesXProject/main/files/Set%20My%20Files-X%20as%20Default.zip) and extract it
+1. Download [this](https://raw.githubusercontent.com/Neolyon0101/MyFilesXProjectPage/main/files/Set%20My%20Files-X%20as%20Default.zip) and extract it
 2. Run MyFilesXDefaultApply.reg
 3. Enjoy!
 4. Optional: Run MyFilesXDefaultUndo.reg in order to restore windows explorer as default file explorer
