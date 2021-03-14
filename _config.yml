@@ -17,7 +17,7 @@ store-free-link: https://www.microsoft.com/en-us/p/my-files-x-free/9pmr0wkvhjfb
 github-repo: https://github.com/Neolyon0101/MyFilesXProject
 
 # Disqus
-discus-identifier: # add your discus identifier
+discus-identifier: myfiles-xproject # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
