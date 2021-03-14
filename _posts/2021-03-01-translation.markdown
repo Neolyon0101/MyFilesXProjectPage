@@ -65,13 +65,14 @@ Mails to me are permitted and will be answered only if it talks about this and i
 
 - EN/English
 - ES/Spanish
-- Chinese (Simplified) - [@julesJLlieu](https://twitter.com/julesjllieu)
-- Chinese (Traditional) - [@julesJLlieu](https://twitter.com/julesjllieu)
+- Chinese (Simplified) - [@idkifurLaotan](https://twitter.com/idkifurLaotan)
+- Chinese (Traditional) - [@idkifurLaotan](https://twitter.com/idkifurLaotan)
 
 ### Translation in progress by ###
 
-- None
+- Persian by [@_aminsafarzadeh_](https://www.instagram.com/_aminsafarzadeh_/)
 
 ### Petitions to translate this languages ###
 
 - Chinese (Traditional)
+- Persian
