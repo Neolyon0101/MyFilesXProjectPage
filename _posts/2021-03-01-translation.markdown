@@ -44,7 +44,6 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Arabic
 - Bengali
 - Dutch
-- English
 - French
 - German
 - Hebrew
@@ -55,7 +54,6 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Polish
 - Portuguese
 - Romanian
-- Spanish 
 - Swahili
 - Turkish
 
