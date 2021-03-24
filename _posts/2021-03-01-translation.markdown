@@ -52,11 +52,9 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Indonesian
 - Italian
 - Japanese
-- Korean
 - Polish
 - Portuguese
 - Romanian
-- Russian
 - Spanish 
 - Swahili
 - Turkish
@@ -71,6 +69,8 @@ Mails to me are permitted and will be answered only if it talks about this and i
 ### Translation in progress by ###
 
 - Persian by [@_aminsafarzadeh_](https://www.instagram.com/_aminsafarzadeh_/)
+- Korean by [bagjiwon]()
+- Russian by [Alex]()
 
 ### Petitions to translate this languages ###
 
