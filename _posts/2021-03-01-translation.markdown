@@ -68,7 +68,7 @@ Mails to me are permitted and will be answered only if it talks about this and i
 
 - Persian by [@_aminsafarzadeh_](https://www.instagram.com/_aminsafarzadeh_/)
 - Korean by [bagjiwon]()
-- Russian by [Alex]()
+- Russian by [@d1z3ro](https://www.instagram.com/d1z3ro/)
 
 ### Petitions to translate this languages ###
 
