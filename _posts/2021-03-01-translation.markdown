@@ -66,11 +66,11 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Russian by [@gabdrush](https://www.instagram.com/gabdrush/)
 - Persian by [@_aminsafarzadeh_](https://www.instagram.com/_aminsafarzadeh_/)
 
-### Translation in progress by ###
+### Translation in progress ###
 
 - Korean by [@bagjiwon]()
 
-### Petitions to translate this languages ###
+### Petitions to translate ###
 
 - Chinese (Traditional)
 - Persian
