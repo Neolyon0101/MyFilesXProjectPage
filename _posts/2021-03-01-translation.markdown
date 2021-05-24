@@ -56,6 +56,7 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Romanian
 - Swahili
 - Turkish
+- Korean 
 
 ### List of Translated Languages ###
 
@@ -68,9 +69,10 @@ Mails to me are permitted and will be answered only if it talks about this and i
 
 ### Translation in progress ###
 
-- Korean by [@bagjiwon]()
+- Portuguese (Brazilian) by [@pedro_henrique91012](https://www.instagram.com/pedro_henrique91012/)
 
 ### Petitions to translate ###
 
 - Chinese (Traditional)
 - Persian
+- Portuguese (Brazilian)
