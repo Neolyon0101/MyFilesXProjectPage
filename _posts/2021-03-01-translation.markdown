@@ -64,8 +64,9 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - ES/Spanish
 - Chinese (Simplified) - [@idkifurLaotan](https://twitter.com/idkifurLaotan)
 - Chinese (Traditional) - [@idkifurLaotan](https://twitter.com/idkifurLaotan)
-- Russian by [@gabdrush](https://www.instagram.com/gabdrush/)
+- Russian by [@gabdrush](https://www.instagram.com/gabdrush/) and Corrections by [Eugene#0429](https://discord.com/Eugene#0429)
 - Persian by [@_aminsafarzadeh_](https://www.instagram.com/_aminsafarzadeh_/)
+- Ukrainian by [Eugene#0429](https://discord.com/Eugene#0429)
 
 ### Translation in progress ###
 
@@ -76,3 +77,4 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Chinese (Traditional)
 - Persian
 - Portuguese (Brazilian)
+- Ukrainian
