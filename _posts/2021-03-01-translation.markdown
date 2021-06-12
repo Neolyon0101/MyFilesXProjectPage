@@ -51,7 +51,6 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Indonesian
 - Italian
 - Japanese
-- Polish
 - Portuguese
 - Romanian
 - Swahili
@@ -71,6 +70,7 @@ Mails to me are permitted and will be answered only if it talks about this and i
 ### Translation in progress ###
 
 - Portuguese (Brazilian) by [@pedro_henrique91012](https://www.instagram.com/pedro_henrique91012/)
+- Polish by Bartłomiej
 
 ### Petitions to translate ###
 
