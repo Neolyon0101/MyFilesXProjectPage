@@ -66,11 +66,10 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Russian by [@gabdrush](https://www.instagram.com/gabdrush/) and Corrections by [Eugene#0429](https://discord.com/Eugene#0429)
 - Persian by [@_aminsafarzadeh_](https://www.instagram.com/_aminsafarzadeh_/)
 - Ukrainian by [Eugene#0429](https://discord.com/Eugene#0429)
+- Portuguese (Brazilian) by [@pedro_henrique91012](https://www.instagram.com/pedro_henrique91012/)
+- Polish by [Bartłomiej](https://discordapp.com/users/404883299417325589)
 
 ### Translation in progress ###
-
-- Portuguese (Brazilian) by [@pedro_henrique91012](https://www.instagram.com/pedro_henrique91012/)
-- Polish by Bartłomiej
 
 ### Petitions to translate ###
 
