@@ -49,12 +49,10 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Hebrew
 - Hindi
 - Indonesian
-- Italian
 - Japanese
 - Portuguese
 - Romanian
 - Swahili
-- Turkish
 - Korean 
 
 ### List of Translated Languages ###
@@ -68,6 +66,8 @@ Mails to me are permitted and will be answered only if it talks about this and i
 - Ukrainian by [Eugene#0429](https://discord.com/Eugene#0429)
 - Portuguese (Brazilian) by [@pedro_henrique91012](https://www.instagram.com/pedro_henrique91012/)
 - Polish by [Bartłomiej](https://discordapp.com/users/404883299417325589)
+- Italian By [Stefano Trevisan]()
+- Turkish By [Serdar Sağlam]()
 
 ### Translation in progress ###
 
